@@ -1,2 +1,2 @@
 # Python Exercises (Curso em video)
- Primeiros exercícios do curso de Python.
+ Primeiro repositório criado para divulgação da minha curva de aprendizado através de exercícios de Python disponibilizados pelo Curso em Vídeo.
